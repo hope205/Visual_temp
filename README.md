@@ -12,4 +12,4 @@ Have fun tryinh it out.
 This is what it looks like when you eventaully get it to work
 
 
-![sample image](pics/Screenshot from 2020-11-17 11-37-09.png)
+![](Screenshot from 2020-11-17 11-37-09.png)
