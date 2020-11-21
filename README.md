@@ -12,4 +12,4 @@ Have fun tryinh it out.
 This is what it looks like when you eventaully get it to work
 
 
-![sample image]()
+![sample image](https://github.com/hope205/Visual_temp/blob/master/pics/visualization.png)
